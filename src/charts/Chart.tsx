@@ -25,8 +25,6 @@ ChartJS.register(
   PointElement, LinearScale, TimeScale, Tooltip, Legend
 );
 
-
-
 const Chart: React.FC<ChartProps> = ({
   type,
   data,
